@@ -1,19 +1,29 @@
-# MN-Interstate-Traffic-Volumes
+# MN Interstate Traffic Volumes
 
 ## Project Overview
-Create a [Tableau Public dashboard](https://public.tableau.com/shared/GGB9MGP9R?:display_count=n&:origin=viz_share_link) 
+The Minnesota Department of Transportation (MnDOT) is hoping to use their traffic volumes data to improve their infrastructure on the Minneapolis interstate. MnDOT requested help with designing charts and developing a business intelligence dashboard to better understand traffic patterns. They requested three specific visuals:
+- Traffic volume throughout the year; ideally organized by year, month, week, day, and hour
+- Traffic volume in various weather conditions
+- Traffic volume on different holidays
+
+Interstate data from MnDOT was uploaded into [Tableau Public](https://public.tableau.com/app/discover) where a series of charts were developed and then assembled into a single dashboard.
+
 ## Resources
 - Tableau Desktop Public
 - Tableau Public
 - [Metro_Interstate_Traffic_Volume.csv](https://github.com/es2681/MN-Interstate-Traffic-Volumes/blob/main/Metro_Interstate_Traffic_Volume.csv)
 
-
 ## Analysis & Results
-[Tableau Public dashboard](https://public.tableau.com/shared/GGB9MGP9R?:display_count=n&:origin=viz_share_link) 
+The final product is saved to Tableau Public as [MN Interstate Traffic Dashboard](https://public.tableau.com/shared/GGB9MGP9R?:display_count=n&:origin=viz_share_link). Screenshots of the the dashboard and associated visualizations are also copied below.
+
+### MN Interstate Traffic Dashboard
+![MN Interstate Traffic Dashboard](https://github.com/es2681/MN-Interstate-Traffic-Volumes/blob/main/Visuals/MN%20Traffic%20Dashboard.png)
 
 ### Monthly Traffic Volumes by Year
 ![Monthly Traffic Volumes by Year](https://github.com/es2681/MN-Interstate-Traffic-Volumes/blob/main/Visuals/Monthly%20Traffic%20Volumes%20by%20Year.png)
-Excel formulas were used to calculate Gross Revenue, Total Tax, and Net Revenue for each product. These columns were added to the Sales Data table.
+
+### Traffic Volumes by Hour
+![Traffice Volumes by Hour](https://github.com/es2681/MN-Interstate-Traffic-Volumes/blob/main/Visuals/Traffic%20Volumes%20by%20Hour.png)
 
 ### Configuring Data in Power BI
 The Microsoft Excel Sales Data, Purchases, and Countries tables were imported into Power BI. They were examined for duplicate, null, or otherwise unexpected values. Each column was checked or altered to ensure the correct data type designation. A currency exchange table was added to the file so that the sales figures could later be homogenized.

@@ -1,7 +1,7 @@
 # MN Interstate Traffic Volumes
 
 ## Project Overview
-The Minnesota Department of Transportation (MnDOT) wants to use their highway traffic data to improve the infrastructure of the Minneapolis interstate. MnDOT requested help using this data to design charts and develop a dashboard to better understand traffic patterns. They requested three specific visuals:
+The Minnesota [Department of Transportation (MnDOT)](https://www.dot.state.mn.us/) wants to use their highway traffic data to improve the infrastructure of the Minneapolis interstate. MnDOT requested help using this data to design charts and develop a dashboard to better understand traffic patterns. They requested three specific visuals:
 - Traffic volume throughout the year organized by year, day, and hour
 - Traffic volume in various weather conditions
 - Traffic volume on different holidays

@@ -6,7 +6,7 @@ The [Minnesota Department of Transportation](https://www.dot.state.mn.us/) (MnDO
 - Traffic volume in various weather conditions
 - Traffic volume on different holidays
 
-Traffic data from MnDOT was uploaded into [Tableau Public](https://public.tableau.com/app/discover) where a series of charts were developed and then assembled into a single dashboard.
+Traffic data from MnDOT was uploaded into [Tableau Public](https://public.tableau.com/app/discover) where a series of charts were developed and then assembled into a single dashboard. My completed Tableau dashboard is located [here](https://public.tableau.com/views/MNInterstateTraffic_17171775150730/MNTrafficDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
 
 ## Resources
 - Tableau Desktop Public
